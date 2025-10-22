@@ -45,13 +45,13 @@ const mother = document.createElement("div");
       mother.style.backgroundColor = "hsl(3, 86%, 64%)";
     } else {
       mother.style.justifyContent = "flex-start";
-      mother.style.backgroundColor = "hsl(226, 11%, 37%)";
+      mother.style.backgroundColor = "hsla(240, 2%, 64%, 1.00)";
     }
     
   mother.onclick = function() {
     if (mother.style.justifyContent === "flex-start") {
       mother.style.justifyContent = "flex-end";
-      mother.style.backgroundColor ="hsl(3, 77%, 44%)";
+      mother.style.backgroundColor ="hsl(3, 86%, 64%)";
     } else {
      mother.style.justifyContent = "flex-start";
      mother.style.backgroundColor ="hsla(240, 2%, 64%, 1.00)"
