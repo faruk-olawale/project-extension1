@@ -102,7 +102,7 @@ const mother = document.createElement("div");
    h4name.style.color ="hsl(200, 60%, 99%)"
    pnames.style.color ="hsl(0, 0%, 78%)"
    premove.style.color ="hsl(200, 60%, 99%)"
-   premove.style.border ="1px solid hsl(225, 23%, 24%)"
+   premove.style.border ="1px solid hsl(217, 61%, 90%))"
 
   });
  }   
