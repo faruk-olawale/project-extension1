@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     color: hsl(200, 60%, 99%);
+    font-family: "Noto Sans";
 }
 
 main{
